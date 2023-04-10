@@ -99,4 +99,3 @@ numero <- readline(prompt="Informe um número: ")
 numero <- as.integer(numero)
 
 print(paste("O número informado foi", numero))
-
